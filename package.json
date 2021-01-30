@@ -1,8 +1,13 @@
 {
-    "name": "promises-challenges",
-    "scripts": {},
-    "dependencies": {
-        "request": "^2.88.2"
-    },
-    "devDependencies": {}
+  "name": "promises-challenges",
+  "scripts": {},
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "description": "## Instructions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
